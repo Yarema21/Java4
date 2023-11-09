@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3154b086-420e-430a-a7c0-64be8fcc627b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2XrQx3A6XkxQ682z9j6dwCNjYAR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.All in Java4 (1).executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.All in Java4.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.GemHandlerTest.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.GemHandlerTest.testInventorynull.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.GemHandlerTest.testMakeAStringMistake.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NecklaceBuilderTest.testCreateNecklaceFalse.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NecklaceBuilderTest.testCreateNecklaceMethodsGemstoneByValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NecklaceBuilderTest.testCreateNecklaceMethodsGetTotalValue.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.NecklaceBuilderTest.testCreateNecklaceMethodsGetTotalWeight.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.example in Java4.executor&quot;: &quot;Coverage&quot;,
+    &quot;JUnit.test in Java4.executor&quot;: &quot;Coverage&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;C:/Users/spaco/OneDrive/Desktop/2.5 kurs/Java code/Java4/src/example/jewelry/handler&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/spaco/Downloads/apache-log4j-2.22.0-bin/log4j-core-2.22.0.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/spaco/OneDrive/Desktop/2.5 kurs/Java code/Java4/test/java/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;XML&quot;
+    ]
+  }
+}</component>
+  <component name="QodanaHighlightedReportService">
+    <option name="localRunNotPublishedPersistedInfo">
+      <LocalReportPersistedInfo>
+        <option name="path" value="C:\Users\spaco\AppData\Local\Temp\qodana_output\qodana.sarif.json" />
+        <option name="reportGuid" value="773ffd22-31c1-47b3-8f75-48ac2163d77f" />
+        <option name="reportName" value="Java4.iml/qodana/2023-12-15" />
+      </LocalReportPersistedInfo>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\spaco\OneDrive\Desktop\2.5 kurs\Java code\Java4\src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\spaco\OneDrive\Desktop\2.5 kurs\Java code\Java4\src" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="example.jewelry.necklace" />
+      <recent name="test" />
+      <recent name="example.jewelry.handler" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in Java4">
+    <configuration name="All in Java4 (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Java4" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Java4" />
+      <extension name="coverage" sample_coverage="false" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GemHandlerTest.testInventorynull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="GemHandlerTest" />
+      <option name="METHOD_NAME" value="testInventorynull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NecklaceBuilderTest.testCreateNecklaceFalse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NecklaceBuilderTest" />
+      <option name="METHOD_NAME" value="testCreateNecklaceFalse" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NecklaceBuilderTest.testCreateNecklaceMethodsGetTotalValue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java4" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="NecklaceBuilderTest" />
+      <option name="METHOD_NAME" value="testCreateNecklaceMethodsGetTotalValue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="example in Java4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java4" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="example" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test in Java4" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="Java4" />
+      <extension name="coverage" sample_coverage="false">
+        <pattern>
+          <option name="PATTERN" value=".*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in Java4 (1)" />
+        <item itemvalue="JUnit.example in Java4" />
+        <item itemvalue="JUnit.GemHandlerTest.testInventorynull" />
+        <item itemvalue="JUnit.NecklaceBuilderTest.testCreateNecklaceFalse" />
+        <item itemvalue="JUnit.NecklaceBuilderTest.testCreateNecklaceMethodsGetTotalValue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-3183f394aec4-8f899f12" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3154b086-420e-430a-a7c0-64be8fcc627b" name="Changes" comment="" />
+      <created>1699384966879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699384966879</updated>
+      <workItem from="1699384967996" duration="37407000" />
+      <workItem from="1699491802779" duration="2187000" />
+      <workItem from="1699515040816" duration="930000" />
+      <workItem from="1699515991227" duration="5222000" />
+      <workItem from="1699524292690" duration="79000" />
+      <workItem from="1699525315908" duration="215000" />
+      <workItem from="1699539336399" duration="479000" />
+      <workItem from="1699545832385" duration="476000" />
+      <workItem from="1699636430997" duration="359000" />
+      <workItem from="1699636899399" duration="596000" />
+      <workItem from="1699989566807" duration="7565000" />
+      <workItem from="1700041836385" duration="2802000" />
+      <workItem from="1700416223074" duration="153000" />
+      <workItem from="1700594667078" duration="3940000" />
+      <workItem from="1700603613687" duration="3363000" />
+      <workItem from="1700922866250" duration="2916000" />
+      <workItem from="1701101478713" duration="8588000" />
+      <workItem from="1701123636282" duration="11905000" />
+      <workItem from="1701251188425" duration="1259000" />
+      <workItem from="1701267594933" duration="617000" />
+      <workItem from="1701608512207" duration="1739000" />
+      <workItem from="1701852767930" duration="149000" />
+      <workItem from="1702031401843" duration="2000" />
+      <workItem from="1702317077064" duration="2603000" />
+      <workItem from="1702413323638" duration="76000" />
+      <workItem from="1702413441447" duration="81000" />
+      <workItem from="1702451430976" duration="13731000" />
+      <workItem from="1702565491386" duration="2099000" />
+      <workItem from="1702573702457" duration="900000" />
+      <workItem from="1702574609621" duration="86000" />
+      <workItem from="1702574703920" duration="1416000" />
+      <workItem from="1702576419516" duration="3148000" />
+      <workItem from="1702580829465" duration="128000" />
+      <workItem from="1702594464415" duration="745000" />
+      <workItem from="1702630087883" duration="3049000" />
+      <workItem from="1702639024916" duration="361000" />
+      <workItem from="1702661230707" duration="1414000" />
+      <workItem from="1702664937980" duration="453000" />
+      <workItem from="1702665399004" duration="1703000" />
+      <workItem from="1702667112887" duration="506000" />
+      <workItem from="1702667647041" duration="2780000" />
+      <workItem from="1702675713202" duration="67000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1699521219884</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699521219884</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/bro/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/src/Main.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java4$example_in_Java4.ic" NAME="example in Java4 Coverage Results" MODIFIED="1702667695237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>example.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java4$All_in_Java4__1_.ic" NAME="All in Java4 (1) Coverage Results" MODIFIED="1702667705945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java4$All_in_Java4.ic" NAME="All in Java4 Coverage Results" MODIFIED="1702670866311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/Java4$test_in_Java4.ic" NAME="test in Java4 Coverage Results" MODIFIED="1702667660614" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/Java4$GemHandlerTest__1_.ic" NAME="GemHandlerTest (1) Coverage Results" MODIFIED="1701251235753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Java4$GemHandlerTest.ic" NAME="GemHandlerTest Coverage Results" MODIFIED="1702453280285" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

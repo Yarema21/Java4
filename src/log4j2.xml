@@ -1,0 +1,14 @@
+<Configuration status="WARN">
+    <Appenders>
+        <File name="File" fileName="C:\Users\spaco\OneDrive\Desktop\2.5 kurs\logs/application.log">
+            <PatternLayout>
+                <Pattern>%d [%t] %-5level %logger{36} - %msg%n</Pattern>
+            </PatternLayout>
+        </File>
+    </Appenders>
+    <Loggers>
+        <Root level="debug">
+            <AppenderRef ref="File"/>
+        </Root>
+    </Loggers>
+</Configuration>
